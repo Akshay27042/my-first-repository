@@ -1,6 +1,3 @@
-# my-first-repository
-package com.edubridge;
-
 import java.util.Scanner;
 
 public class Example4 {
